@@ -10,7 +10,7 @@ image:{img-qg-status}[Quality Gate Status,link={uri-qg-status}]
 
 *This project is analysed on https://sonarcloud.io/dashboard?id=sc-sq-c-family-examples_macos-cmake-azure-sc[SonarCloud]!*
 
-It is very easy to analyze a C/C++/Objective-C project with SonarCloud https://sonarcloud.io/documentation/getting-started/azure-devops/[on Azure DevOps]:
+It is very easy to analyze a C/{cpp}/Objective-C project with SonarCloud https://sonarcloud.io/documentation/getting-started/azure-devops/[on Azure DevOps]:
 
 . Create a `sonar-project.properties` file to store your configuration
 . Install SonarCloud extension for your organization:
