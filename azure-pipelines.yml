@@ -5,7 +5,7 @@ schedules:                          # This schedule ensures this example itself
     include:
       - main
 jobs:
-- job: BuildLinuxWithSonarCloud
+- job: BuildMacOSWithSonarCloud
   displayName: Build for MacOS\CMake With SonarCloud
   pool:
     vmImage: 'macos-latest'
