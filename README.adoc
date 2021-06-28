@@ -38,7 +38,7 @@ You can take a look at the link:sonar-project.properties[sonar-project.propertie
 
 = Documentation
 
-- https://sonarcloud.io/documentation/analysis/languages/cfamily/[Documentation of the C/C++/Objective-C plugin and its Build Wrapper]
+- https://sonarcloud.io/documentation/analysis/languages/cfamily/[Documentation of the C, C++ and Objective-C plugin and its Build Wrapper]
 - https://sonarcloud.io/documentation/getting-started/azure-devops/[Documentation of using SonarCloud with Azure DevOps]
 
 = MacOS\CMake
