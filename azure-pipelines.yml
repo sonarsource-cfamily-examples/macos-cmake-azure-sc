@@ -1,6 +1,6 @@
 jobs:
 - job: BuildMacOSWithSonarCloud
-  displayName: Build for MacOS\CMake With SonarCloud
+  displayName: Build for macOS\CMake With SonarCloud
   pool:
     vmImage: 'macos-latest'
   variables:
